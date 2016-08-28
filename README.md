@@ -13,7 +13,7 @@ A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website 
 ##How-To:
   Go to [IFTTT](https://ifttt.com/), create an account.  
   Go to this link - [https://ifttt.com/recipes/458304-notice-notification](https://ifttt.com/recipes/458304-notice-notification).  
-  Click on Connect then add, Enable notification for this recipe from the IFTTT app on phone.     
+  Click on Connect then add.  
   Go to this link - [https://ifttt.com/maker/](https://ifttt.com/maker/)  
   Copy your key.  
   Download this repository.  
