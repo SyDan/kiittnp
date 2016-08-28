@@ -4,7 +4,7 @@ A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website 
 ##Requirements:
   Python 2.7  
   Pip ( refer to this link if not installed - [https://pip.pypa.io/en/latest/installing/](https://pip.pypa.io/en/latest/installing/))  
-  Modules : "mechanize" , "beautifulsoup4"  
+  Modules : "mechanize", "beautifulsoup4", "requests", "lxml"
   [IFTTT](https://ifttt.com/) Account  
   Download IFTTT app to your phone.
 
