@@ -4,7 +4,7 @@ A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website 
 ##Requirements:
   Python 2.7  
   Pip ( refer to this link if not installed - [https://pip.pypa.io/en/latest/installing/](https://pip.pypa.io/en/latest/installing/))  
-  Modules : "mechanize", "beautifulsoup4", "requests", "lxml"  
+  Modules : "mechanize", "beautifulsoup4", "requests"   
   [IFTTT](https://ifttt.com/) Account  
   Download IFTTT app to your phone.
 
@@ -13,7 +13,7 @@ A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website 
 ##How-To:
   Go to [IFTTT](https://ifttt.com/), create an account.  
   Go to this link - [https://ifttt.com/recipes/458304-notice-notification](https://ifttt.com/recipes/458304-notice-notification).  
-  Click on Add, Enable notification for this recipe from the IFTTT app on phone.     
+  Click on Connect then add, Enable notification for this recipe from the IFTTT app on phone.     
   Go to this link - [https://ifttt.com/maker/](https://ifttt.com/maker/)  
   Copy your key.  
   Download this repository.  
