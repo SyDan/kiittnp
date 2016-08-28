@@ -1,0 +1,4 @@
+mechanize>=0.2
+beautifulsoup4>=4.0
+requests
+lxml
