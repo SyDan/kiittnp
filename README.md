@@ -1,4 +1,4 @@
-# Kiittnp
+# KiitTnp
 A script to scrap notices from [kiittnp](http://kiittnp.in/tnp/usr/index.php) website, downloads the latest ones and sends notifications to phone. (Only for KIIT University Students)
 
 ##Requirements:
