@@ -6,7 +6,7 @@ A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website 
   Pip ( refer to this link if not installed - [https://pip.pypa.io/en/latest/installing/](https://pip.pypa.io/en/latest/installing/))  
   Modules : "mechanize", "beautifulsoup4", "requests"   
   [IFTTT](https://ifttt.com/) Account  
-  Download IFTTT app to your phone.
+  Download  "IF by IFTTT" app to your phone.
 
 ------------------------------------------------------------------------
   
