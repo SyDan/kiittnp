@@ -4,7 +4,7 @@ import mechanize
 from bs4 import BeautifulSoup
 import urllib2, urllib
 import cookielib
-from lxml import *
+#from lxml import *
 import requests
 import os
 import time
@@ -53,7 +53,7 @@ def notices(user,passwd):
     br.form['password'] = passwd
     br.submit()
     resp = br.response().read()
-    soup = BeautifulSoup(resp, "lxml")    
+    soup = BeautifulSoup(resp, "html.parser")    
     s = str(soup.findAll('a')[1])
     #print s[22:26]
     notice_new = int(s[22:26])
