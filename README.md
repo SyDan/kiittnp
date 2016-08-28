@@ -1,5 +1,5 @@
 # KiitTnp
-A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website, downloads the latest ones and sends notifications to phone. (Only for KIIT University Students)
+A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website for notices, downloads the latest ones and sends notifications to phone. (Only for KIIT University Students)
 
 ##Requirements:
   Python 2.7  
