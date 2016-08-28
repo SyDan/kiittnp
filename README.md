@@ -30,4 +30,4 @@ A script that scraps the [kiittnp](http://kiittnp.in/tnp/usr/index.php) website 
   The password input will be invisible to hide from bystanders.  
   The user id and password are stored in "creds.txt" file in encoded format(can't be deciphered by Humans :P).  
   The latest notice number is stored in "notice.txt" file.  
-  The script is made according to current design of the website, in case the design of the website changes , script may or may not work , so modify accordingly.  
+  The script is made according to current design of the website, in case the design of the website changes , the script may or may not work , so modify accordingly.  
